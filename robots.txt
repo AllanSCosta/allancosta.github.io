@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://allancosta.github.io/al-folio/sitemap.xml
+Sitemap: https://allancosta.github.io/sitemap.xml
